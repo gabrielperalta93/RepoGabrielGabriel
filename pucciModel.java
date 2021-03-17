@@ -4,3 +4,5 @@ public class Pucci {
         algo = a;
     }
 }
+
+Public class Paso6{}
